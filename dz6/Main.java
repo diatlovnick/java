@@ -1,4 +1,4 @@
-package task2;
+package java.dz6;
 
 import java.util.*;
 

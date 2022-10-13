@@ -1,4 +1,4 @@
-package task2;
+package java.dz6;
 
 public class CountInt implements Comparable {
     Integer numInt ;
